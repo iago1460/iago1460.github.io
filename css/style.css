@@ -263,7 +263,7 @@
 			content: "";
 			-moz-osx-font-smoothing: grayscale;
 			-webkit-font-smoothing: antialiased;
-			font-family: FontAwesome;
+			font-family: "Font Awesome 5 Free";
 			font-style: normal;
 			font-weight: normal;
 			text-transform: none !important;
@@ -329,7 +329,7 @@
 			input[type="radio"] + label:before {
 				-moz-osx-font-smoothing: grayscale;
 				-webkit-font-smoothing: antialiased;
-				font-family: FontAwesome;
+				font-family: "Font Awesome 5 Free";
 				font-style: normal;
 				font-weight: normal;
 				text-transform: none !important;
@@ -434,7 +434,7 @@
 		.icon:before {
 			-moz-osx-font-smoothing: grayscale;
 			-webkit-font-smoothing: antialiased;
-			font-family: FontAwesome;
+			font-family: "Font Awesome 5 Free";
 			font-style: normal;
 			font-weight: normal;
 			text-transform: none !important;
@@ -546,7 +546,7 @@
 				ul.feature-icons li:before {
 					-moz-osx-font-smoothing: grayscale;
 					-webkit-font-smoothing: antialiased;
-					font-family: FontAwesome;
+					font-family: "Font Awesome 5 Free";
 					font-style: normal;
 					font-weight: normal;
 					text-transform: none !important;
@@ -949,7 +949,8 @@
 			#header > header .avatar {
 				display: block;
 				margin: 0 auto 2.25em auto;
-				width: 8em;
+				width: 9em;
+				border: outset;
 			}
 
 			#header > header h1 {
